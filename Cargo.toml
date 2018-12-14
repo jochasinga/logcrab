@@ -1,0 +1,8 @@
+[package]
+name = "logcrab"
+version = "0.1.0"
+authors = ["Joe Chasinga <jo.chasinga@gmail.com>"]
+
+[dependencies]
+exitfailure = "*"
+ansi_term = "^0.9"
